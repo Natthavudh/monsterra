@@ -1,0 +1,1806 @@
+[
+    {
+        "id": 85,
+        "breeding": 2,
+        "rarity": "Epic",
+        "race": "Beast",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Tectos",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 289,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Tectos",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "breeding": 2,
+        "rarity": "Epic",
+        "race": "Tectos",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4797,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Beast",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 41115,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Beast",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Scarecrow Gear",
+                        "rarity": "Uncommon",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Candy Bolt",
+                        "rarity": "Uncommon",
+                        "race": "Tectos"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 53708,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Mystic",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic",
+                        "race": "Mystic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 53710,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Beast",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Banana Rose",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Electric Belt",
+                        "rarity": "Rare",
+                        "race": "Tectos"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare",
+                        "race": "Beast"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic",
+                        "race": "Tectos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 182160,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Beast",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Tulip Eggo",
+                        "rarity": "Uncommon"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Strap Clock",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Banana Rose",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Scarecrow Gear",
+                        "rarity": "Uncommon"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Chemical Pirate",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Candy Bolt",
+                        "rarity": "Uncommon"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 259285,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Mystic",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Steam Engine",
+                        "rarity": "Common"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Assassin Worker",
+                        "rarity": "Common"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Broccoli Builder",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 293028,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Tectos",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Pineapple Spirits",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 943,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Mystic",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 332891,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Celest",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Lighting Seadog",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Lighting Seadog",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Lighting Seadog",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 332834,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Celest",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Bubble Hermit",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 332775,
+        "breeding": 0,
+        "rarity": "Epic",
+        "race": "Celest",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Bulb Metal",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Frozen Crystal",
+                        "rarity": "Rare"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Mystical Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Golden Flame",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Fluppy Light",
+                        "rarity": "Rare"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 365,
+        "breeding": 1,
+        "rarity": "Epic",
+        "race": "Mystic",
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r2": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ]
+            }
+        ]
+    }
+]

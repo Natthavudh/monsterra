@@ -1,0 +1,576 @@
+{
+    "name": "Mongen #365",
+    "description": "Mongen #365",
+    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/2310312310310310312312312313.webp",
+    "skills": [
+        {
+            "type": "Basic skill",
+            "skillInfos": [
+                {
+                    "stats": {
+                        "dmg": 2,
+                        "rng": 2,
+                        "eng": 4,
+                        "cd": 2,
+                        "msd": 3
+                    },
+                    "name": "Fury Cutter",
+                    "code": "BSCO_001",
+                    "description": "Deals 2.68 damage to a single target by repeatedly slashing at it.",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSCO_001.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_LandPlot.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Single.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 5,
+                        "rng": 2,
+                        "eng": 4,
+                        "cd": 3,
+                        "msd": 3
+                    },
+                    "name": "Force Punch",
+                    "code": "BSUC_001",
+                    "description": "Throws a fist with divine power that deals 6.69 damage to a single target and has a 12.50% chance to Knockback the target.",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSUC_001.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_LandPlot.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Single.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_KnockBack.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 6,
+                        "rng": 10,
+                        "eng": 13,
+                        "cd": 3,
+                        "msd": 2
+                    },
+                    "name": "Poison Fang",
+                    "code": "BSEP_003",
+                    "description": "Uses poison-filled fangs to deal 8.03 damage to a single target. Enemy hits have a 15.00% chance of being Poisoned for 2.00 seconds. ( Poisoned target takes damage equal to 1.5% of current HP every 0.5 seconds)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSEP_003.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Any.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Single.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Poisoned.webp"
+                    ],
+                    "isActive": true
+                },
+                {
+                    "stats": {
+                        "dmg": 12,
+                        "rng": 7,
+                        "eng": 2,
+                        "cd": 2,
+                        "msd": 7
+                    },
+                    "name": "Electric Fang",
+                    "code": "BSEP_004",
+                    "description": "Uses charged fangs to deal 16.06 damage to a single target. Enemy hits have a 22.50% chance of being Paralyzed for 4.00 seconds. ( Paralyzed target will not be able to move)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSEP_004.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Single.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Paralyzed.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 27,
+                        "rng": 4,
+                        "eng": 33,
+                        "cd": 9,
+                        "msd": 3
+                    },
+                    "name": "Ice Fang",
+                    "code": "BSEP_007",
+                    "description": "Throws a cold bite that deals 36.14 damage to a single target. Enemy hits have a 25.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSEP_007.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Any.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Single.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Slow.webp"
+                    ],
+                    "isActive": false
+                }
+            ]
+        },
+        {
+            "type": "Ultimate skill",
+            "skillInfos": [
+                {
+                    "stats": {
+                        "dmg": 38,
+                        "rng": 9,
+                        "eng": 57,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "name": "Ice Blast",
+                    "code": "USRA_007",
+                    "description": "Suddenly lowers the temperature around the target to deal 50.86 damage to a small area around it. Enemy hits have a 30.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_007.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Square.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Slow.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 23,
+                        "rng": 6,
+                        "eng": 57,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "name": "Fire Link",
+                    "code": "USRA_009",
+                    "description": "Ignites Mongen and all of its troops to deal 30.79 damage to them. Enemies hit have a 30.00% chance of being Burned for 3.00 seconds. ( Burned target receives 25% more damage)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_009.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Link.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Burned.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 9,
+                        "rng": 6,
+                        "eng": 25,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "name": "Poison Link",
+                    "code": "USRA_010",
+                    "description": "Poisons Mongen and all of its troops to deal 12.05 damage to them. Enemy hits have a 30.00% chance of being Poisoned for 4.00 seconds. ( Poisoned target takes damage equal to 1.5% of current HP every 0.5 seconds)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_010.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Link.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Poisoned.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 30,
+                        "rng": 6,
+                        "eng": 66,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "name": "Fire Beam",
+                    "code": "USRA_016",
+                    "description": "Selects a target and then starts accumulating fire energy. When fully charged, it releases a beam of energy to the target, dealing 40.16 damage to the target and all enemies pierced. Enemies hit have a 30.00% chance of being Burned for 3.00 seconds. ( Burned target receives 25% more damage)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_016.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Ray.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Burned.webp"
+                    ],
+                    "isActive": false
+                },
+                {
+                    "stats": {
+                        "dmg": 60,
+                        "rng": 12,
+                        "eng": 68,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "name": "Greater Ice Blast",
+                    "code": "USEP_016",
+                    "description": "Suddenly lowers the temperature around the target to deal 80.31 damage to a small area around it. Enemy hits have a 40.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)",
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USEP_016.webp",
+                    "additionIcons": [
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/TARGET_Mongen.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/AOE_Square.webp",
+                        "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/SkillIcon/EFF_Slow.webp"
+                    ],
+                    "isActive": true
+                }
+            ]
+        }
+    ],
+    "maxCapacity": 5,
+    "troopInfos": [
+        {
+            "Health": 1888.5,
+            "Aggression": 42.349999999999994,
+            "Magic": 43.25,
+            "Sturdiness": 60.75,
+            "code": "TRPEP_007",
+            "description": "There's nothing scarier than when you come face-to-face with a Yet-Skull creature that appears in the coldest nightmares.",
+            "rarity": 3,
+            "attributes": [
+                {
+                    "trait_type": "Rarity",
+                    "value": "Epic"
+                }
+            ],
+            "name": "Yet-Skull",
+            "skills": [
+                {
+                    "type": "Basic skill",
+                    "stats": {
+                        "dmg": 18,
+                        "rng": 4,
+                        "eng": 22,
+                        "cd": 9,
+                        "msd": 2
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSRA_007.webp",
+                    "name": "Ice Kick",
+                    "code": "BSRA_007",
+                    "description": "Throws a cold kick that deals 7.21 damage to a single target. Enemy hits have a 20.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)"
+                },
+                {
+                    "type": "Ultimate skill",
+                    "stats": {
+                        "dmg": 23,
+                        "rng": 6,
+                        "eng": 57,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_014.webp",
+                    "name": "Ice Link",
+                    "code": "USRA_014",
+                    "description": "Curses Mongen and all of its troops in the cold to deal 9.21 damage to them. Enemy hits have a 30.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)"
+                }
+            ],
+            "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Troop/Troop/TRPEP_007.webp",
+            "training_time": 90,
+            "training_cost": 420
+        },
+        {
+            "Health": 1510.8000000000002,
+            "Aggression": 12.100000000000001,
+            "Magic": 69.2,
+            "Sturdiness": 72.89999999999999,
+            "code": "TRPRA_001",
+            "description": "Rabbits come here to party. Rabbits come here to mess around. Don't play with rabbits.",
+            "rarity": 2,
+            "attributes": [
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                }
+            ],
+            "name": "Rab Pom Pom",
+            "skills": [
+                {
+                    "type": "Basic skill",
+                    "stats": {
+                        "dmg": 5,
+                        "rng": 2,
+                        "eng": 4,
+                        "cd": 3,
+                        "msd": 3
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSUC_001.webp",
+                    "name": "Force Punch",
+                    "code": "BSUC_001",
+                    "description": "Throws a fist with divine power that deals 1.75 damage to a single target and has a 12.50% chance to Knockback the target."
+                },
+                {
+                    "type": "Ultimate skill",
+                    "stats": {
+                        "dmg": 14,
+                        "rng": 6,
+                        "eng": 30,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_008.webp",
+                    "name": "Gust",
+                    "code": "USRA_008",
+                    "description": "Twists the space around Mongen and all of its troops to deal 4.91 damage to them. Has a 30.00% chance to Knockback enemies hit."
+                }
+            ],
+            "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Troop/Troop/TRPRA_001.webp",
+            "training_time": 90,
+            "training_cost": 235
+        },
+        {
+            "Health": 1888.5,
+            "Aggression": 36.3,
+            "Magic": 34.6,
+            "Sturdiness": 48.6,
+            "code": "TRPRA_007",
+            "description": "The owl and the Yeti created the powerful and intelligent Ownti.",
+            "rarity": 2,
+            "attributes": [
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                }
+            ],
+            "name": "Ownti",
+            "skills": [
+                {
+                    "type": "Basic skill",
+                    "stats": {
+                        "dmg": 12,
+                        "rng": 4,
+                        "eng": 15,
+                        "cd": 9,
+                        "msd": 2
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Basic/BSUC_007.webp",
+                    "name": "Ice Punch",
+                    "code": "BSUC_007",
+                    "description": "Throws a cold punch that deals 4.20 damage to a single target. Enemy hits have a 15.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)"
+                },
+                {
+                    "type": "Ultimate skill",
+                    "stats": {
+                        "dmg": 23,
+                        "rng": 6,
+                        "eng": 57,
+                        "cd": 6,
+                        "msd": null
+                    },
+                    "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Skill/Ultimate/USRA_014.webp",
+                    "name": "Ice Link",
+                    "code": "USRA_014",
+                    "description": "Curses Mongen and all of its troops in the cold to deal 8.05 damage to them. Enemy hits have a 30.00% chance of being Slowed for 4.00 seconds. ( Slowed target has 50% movement speed and basic skill cast speed)"
+                }
+            ],
+            "image": "https://monsterra-images.s3.ap-southeast-1.amazonaws.com/Troop/Troop/TRPRA_007.webp",
+            "training_time": 90,
+            "training_cost": 235
+        }
+    ],
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Mongen #365"
+        },
+        {
+            "trait_type": "ID",
+            "value": 365
+        },
+        {
+            "trait_type": "Race",
+            "value": "Mystic"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Epic"
+        },
+        {
+            "trait_type": "Level",
+            "base": 1,
+            "value": 35,
+            "max": 35
+        },
+        {
+            "trait_type": "Evolution",
+            "base": 1,
+            "value": 3,
+            "max": 5
+        },
+        {
+            "trait_type": "Children",
+            "base": 0,
+            "value": 1,
+            "max": 3
+        },
+        {
+            "trait_type": "Health",
+            "base": 75,
+            "value": 3777,
+            "current": 3777,
+            "max": 9827
+        },
+        {
+            "trait_type": "Sturdiness",
+            "base": 77,
+            "value": 243,
+            "current": 243,
+            "max": 553
+        },
+        {
+            "trait_type": "Magic",
+            "base": 75,
+            "value": 173,
+            "current": 173,
+            "max": 354
+        },
+        {
+            "trait_type": "Aggression",
+            "base": 53,
+            "value": 121,
+            "current": 121,
+            "max": 247
+        }
+    ],
+    "details": {
+        "about": [
+            {
+                "name": "ID",
+                "value": 365
+            },
+            {
+                "name": "Race",
+                "value": "Mystic"
+            },
+            {
+                "name": "Rarity",
+                "value": "Epic"
+            },
+            {
+                "name": "Level",
+                "base": 1,
+                "value": 35,
+                "max": 35
+            },
+            {
+                "name": "Evolution",
+                "base": 1,
+                "value": 3,
+                "max": 5
+            },
+            {
+                "name": "Children",
+                "base": 0,
+                "value": 1,
+                "max": 3
+            }
+        ],
+        "stats": [
+            {
+                "name": "Health",
+                "base": 75,
+                "value": 3777,
+                "current": 3777,
+                "max": 9827
+            },
+            {
+                "name": "Sturdiness",
+                "base": 77,
+                "value": 243,
+                "current": 243,
+                "max": 553
+            },
+            {
+                "name": "Magic",
+                "base": 75,
+                "value": 173,
+                "current": 173,
+                "max": 354
+            },
+            {
+                "name": "Aggression",
+                "base": 53,
+                "value": 121,
+                "current": 121,
+                "max": 247
+            }
+        ],
+        "parents": [
+            null,
+            null
+        ],
+        "dna": [
+            {
+                "mongen": [
+                    {
+                        "name": "Form",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Eyes",
+                        "value": "Water Succulent",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Horns",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Tail",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    },
+                    {
+                        "name": "Back",
+                        "value": "Cotton Twinke",
+                        "rarity": "Epic"
+                    }
+                ],
+                "r1": null,
+                "r2": null
+            }
+        ]
+    },
+    "dna_raw": [
+        [
+            2,
+            3,
+            1
+        ],
+        [
+            0,
+            3,
+            1
+        ],
+        [
+            2,
+            3,
+            1
+        ],
+        [
+            0,
+            3,
+            1
+        ],
+        [
+            0,
+            3,
+            1
+        ],
+        [
+            0,
+            3,
+            1
+        ],
+        [
+            2,
+            3,
+            1
+        ],
+        [
+            2,
+            3,
+            1
+        ],
+        [
+            2,
+            3,
+            1
+        ],
+        [
+            3
+        ]
+    ]
+}
