@@ -125,7 +125,7 @@
     },
     {
         "id": 115,
-        "breeding": 1,
+        "breeding": 2,
         "rarity": "Epic",
         "race": "Tectos",
         "dna": [
@@ -1275,7 +1275,7 @@
     },
     {
         "id": 943,
-        "breeding": 1,
+        "breeding": 2,
         "rarity": "Epic",
         "race": "Mystic",
         "dna": [
